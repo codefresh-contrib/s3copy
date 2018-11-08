@@ -27,10 +27,10 @@ steps:
 ## Environment variables
 
 ```text
-AWS_ACCESS_KEY_ID="<id>"
-AWS_SECRET_ACCESS_KEY="<key>"
-AWS_DEFAULT_REGION="<region>"
-SOURCE="<sourcepath>"
-DESTINATION="<destinationpath>"
+AWS_ACCESS_KEY_ID=<id>
+AWS_SECRET_ACCESS_KEY=<key>
+AWS_DEFAULT_REGION=<region>
+SOURCE=<sourcepath>
+DESTINATION=<destinationpath>
 
 ```
