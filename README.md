@@ -18,8 +18,8 @@ steps:
   Copy to S3:
     image: 'codefresh/s3copy'
     environment:
-      - SOURCE="path/to/somefile"
-      - DESTINATION="s3://path-to-s3-bucket"
+      - SOURCE=path/to/somefile
+      - DESTINATION=s3://path-to-s3-bucket
   ...
 
 ```
